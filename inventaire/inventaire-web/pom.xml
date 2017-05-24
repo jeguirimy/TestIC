@@ -4,7 +4,7 @@
   <parent>
     <groupId>fr.mediatheque</groupId>
     <artifactId>inventaire</artifactId>
- <version>2.0.2-SNAPSHOT</version>
+ <version>8.0.0-SNAPSHOT</version>
   </parent>
   
   <artifactId>inventaire-web</artifactId>
@@ -79,5 +79,5 @@
   <build>
     <finalName>inventaire-web</finalName>
   </build>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>8.0.0-SNAPSHOT</version>
 </project>
