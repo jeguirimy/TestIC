@@ -159,14 +159,13 @@
      </plugins>
   </build>
 	
-	
   <modules>
     <module>inventaire-model</module>
     <module>inventaire-dao</module>
-    <module>inventaire-services</module>
-    <module>inventaire-web</module>
+    
   </modules>
   
+	
   
   <scm>
     <developerConnection>scm:git:https://github.com/houahidi/inventaire.git</developerConnection>
